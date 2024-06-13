@@ -11,7 +11,6 @@ I'm Tzivya, a software developer passionate about technology and innovation. and
 Here are some of the programming languages and technologies I've mastered:
 ## שפות
 
-* Python
-* JavaScript
-* HTML
-* CSSFeel free to explore my GitHub repositories to see more projects and contributions!
+![Java](images/java_logo.svg)
+![JavaScript](images/javascript_logo.png)
+![C#](images/csharp_logo.svg)

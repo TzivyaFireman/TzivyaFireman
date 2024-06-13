@@ -1,4 +1,4 @@
-🌟 ## Hi there! 👋 I'm Tzivya
+## Hi there! 👋 I'm Tzivya
 
 I'm a passionate software developer with a strong interest in technology and innovation. My expertise spans across various programming languages and technologies.
 

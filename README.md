@@ -1,6 +1,12 @@
-## Hi there! 👋 I'm Tzivya
+<h1> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hi! My name is Tzivya Fireman</h1>
 
 I'm a passionate software developer with a strong interest in technology and innovation. My knowledge spans across various programming languages and technologies.👩‍💻
+
+🙋‍♀️ **A little about me:**  
+- 🌍 I love learning new languages! I speak Hebrew, English, basic Spanish, and a little bit of Arabic. 🌍
+- 🎹 Music is a big part of my life, and I enjoy playing the piano.   🎹
+- 🧩 I have a passion for solving puzzles, which makes me pretty good at algorithms.   🧩
+- 🤝 Helping others is something I truly enjoy—it’s always great to share knowledge and support!   🤝
 
 ### 💬 Get in touch
 - 📧 Email: tz0534199716@gmail.com

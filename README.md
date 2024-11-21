@@ -1,4 +1,4 @@
-<h1> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hi! My name is Tzivya Fireman</h1>
+<h1> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hey! My name is Tzivya Fireman</h1>
 
 I'm a passionate software developer with a strong interest in technology and innovation. My knowledge spans across various programming languages and technologies.👩‍💻
 

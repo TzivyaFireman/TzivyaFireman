@@ -1,6 +1,9 @@
 <h1> <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> Hey! My name is Tzivya Fireman</h1>
 
-I'm a passionate software developer with a strong interest in technology and innovation. My knowledge spans across various programming languages and technologies.👩‍💻
+I’m a software developer with a passion for technology and innovation, 👩‍💻 <br>
+currently seeking my next opportunity 🔎 — a professional challenge that allows me to grow, learn, and contribute in a creative and dynamic environment. I have experience and knowledge in a wide range of programming languages and technologies, bringing professionalism, creativity, and motivation to every project.<br>
+If you’re looking for someone who will contribute and grow as part of your team, I’d love to hear from you!😊
+
 
 🙋‍♀️ **A little about me:**  
 - 🌍 I love learning new languages! I speak Hebrew, English, basic Spanish, and a little bit of Arabic. 🌍

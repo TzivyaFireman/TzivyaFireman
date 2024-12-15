@@ -10,7 +10,7 @@ If you’re looking for someone who will contribute and grow as part of your tea
 - 🎹 Music is a big part of my life, and I enjoy playing the piano.   🎹
 - 🧩 I have a passion for solving puzzles, which makes me pretty good at algorithms.   🧩
 - 🤝 Helping others is something I truly enjoy—it’s always great to share knowledge and support!  🤝
-- [Recognized as an active contributor on the Wall of Fame 😊](https://github.com/orgs/community/discussions/145145)
+- [Recognized as an active contributor on the Wall of Fame 💫😍](https://github.com/orgs/community/discussions/145145)
 
 ### 💬 Get in touch
 - 📧 Email: tz0534199716@gmail.com

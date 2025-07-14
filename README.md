@@ -12,9 +12,6 @@ If you’re looking for someone who will contribute and grow as part of your tea
 - 🤝 Helping others is something I truly enjoy—it’s always great to share knowledge and support!  🤝
 - 💁‍♀️ And here’s something really cool - [Recognized as an active contributor on the Wall of Fame 💫 💁‍♀️](https://github.com/orgs/community/discussions/145145) 
 
-### 💬 Get in touch
-- 📧 Email: tz0534199716@gmail.com
-- 📞 Phone: 0534199716
 
 #### Languages and Tools:
 

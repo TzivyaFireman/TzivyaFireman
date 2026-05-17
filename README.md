@@ -6,7 +6,6 @@ If you’re looking for someone who will contribute and grow as part of your tea
 
 
 🙋‍♀️ **A little about me:**  
-- 🌍 I love learning new languages! I speak Hebrew, English, basic Spanish, and a little bit of Arabic. 🌍
 - 🎹 Music is a big part of my life, and I enjoy playing the piano.   🎹
 - 🧩 I have a passion for solving puzzles, which makes me pretty good at algorithms.   🧩
 - 🤝 Helping others is something I truly enjoy—it’s always great to share knowledge and support!  🤝
